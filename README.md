@@ -1,4 +1,4 @@
 # My-First-Repository.
-Auther - vivek kumar singh
+Auther - vivek kumar singh.
 I am a computer enginner.
-jIS COLLEGE OF ENGINEERING
+
