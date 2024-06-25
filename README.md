@@ -1,5 +1,5 @@
 # My-First-Repository.
-Auther - vivek kumar singh.
+My Self vivek kumar singh.
 I am a computer enginner.
-i love traveling.
+I love traveling.
 
